@@ -1,0 +1,8 @@
+name    'vorlock-procmail'
+version '0.1.0'
+source  'https://github.com/BashtonLtd/puppet-procmail'
+author  'Marcin Kulisz'
+license 'Apache License 2.0'
+summary 'Procmail Module'
+description  'procmail module for puppet'
+project_page 'https://github.com/BashtonLtd/puppet-procmail'
