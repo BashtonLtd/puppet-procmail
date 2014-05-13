@@ -1,4 +1,4 @@
-# puppeet-procmail
+# puppet-procmail
 
 ####Table of Contents
 1. [License](#license)
@@ -16,13 +16,13 @@
 * 
 
 ## Usage
-### fetchamil
-It only install fetchamil from default distribution repositories.
+### procmail
+It only install procmail from default distribution repositories.
 
 `include procmail`
 
-### fetchamil::conf
-Configures fetchamil by creating ~/.procmailrc file for user given as a name.
+### procmail::conf
+Configures procmail by creating ~/.procmailrc file for user given as a name.
 ```
 procmail::conf{'root':}
 ```
